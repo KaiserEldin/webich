@@ -1,0 +1,37 @@
+.menu{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.element{
+    background-color: rgb(255 0 0);
+}
+
+.header{
+    background-color: #2f2f2f;
+}
+
+.content{
+    background-color: rgba(0 200 200);
+}
+
+*{
+    font-family: "Libre Barcode 39 Text", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: gray;
+}
+
+.unique-text-red{
+    color: #ff0000;
+}
+
+.unique-text-green{
+    color: rgb(0 255 0);
+}
+
+.footer{
+    background-image: url("https://pbs.twimg.com/profile_images/986726570340499456/T3cLQk0P_400x400.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
